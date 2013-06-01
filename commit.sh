@@ -1,4 +1,4 @@
 date=`date`
-git add .
-git commit -am "$date"
-git push
+/usr/bin/git add .
+/usr/bin/git commit -am "$date"
+/usr/bin/git push
